@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const addition = 5 + 3;
+console.log(`5 + 3 = ${addition}`);
+const subtraction = 15 - 7;
+console.log(`15 - 7 = ${subtraction}`);
+const multiplication = 4 * 2;
+console.log(`4 x 2 = ${multiplication}`);
+const division = 64 / 8;
+console.log(`64 / 8 = ${division}`);

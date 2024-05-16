@@ -1,0 +1,1 @@
+console.log(`Albert Einstein once said, "The only source of knowledge is experience."`);
